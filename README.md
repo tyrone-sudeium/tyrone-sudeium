@@ -11,3 +11,4 @@ In my spare time I like to play with:
 - Rust
 - Final Fantasy XIV
 
+![I donated to KDE!](/img/badge_konqi.png)
