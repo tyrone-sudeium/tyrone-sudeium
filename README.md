@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi, I'm Tyrone. 👋
 
-<!--
-**tyrone-sudeium/tyrone-sudeium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a seasoned software developer, Objective-C traditionalist, Free Desktop user, and free software advocate. I’ve been doing iOS development professionally since 2008, and work as a Lead Engineer for the cross-platform iOS + Android + Web frontend at a leading online “E-commerce” business based in Australia.
 
-Here are some ideas to get you started:
+In my spare time I like to play with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Native macOS
+- React Native
+- TypeScript, Node.js
+- RPG Maker / [EasyRPG](https://github.com/easyrpg)
+- Rust
+- Final Fantasy XIV
+
